@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://godot-rust.github.io/sitemap.xml
